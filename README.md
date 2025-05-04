@@ -4,6 +4,9 @@
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampleing.
 
 # Tools required
+1.Python: A versatile programming language used for scientific computing and signal processing.
+2.NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
+3.Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
 # Program
 ```
