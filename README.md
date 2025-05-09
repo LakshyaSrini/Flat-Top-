@@ -84,6 +84,11 @@ plt.show()
 # Output Waveform
 ![image](https://github.com/user-attachments/assets/b09fed7f-8abf-49f3-89ef-30b6643400c6)
 
+
+# Hardware experiment output waveform.
+![WhatsApp Image 2025-05-09 at 7 14 52 PM](https://github.com/user-attachments/assets/a040da6f-bec3-4444-bef3-9b174fa03cd1)
+
+
 # Results
 Flat Top Sampling was successfully simulated using a pulse train to sample a continuous-time message signal. The sampled waveform retained the amplitude of the original signal at discrete intervals with flat tops. The output waveform confirms accurate flat-top representation of the message signal samples.
-# Hardware experiment output waveform.
+
